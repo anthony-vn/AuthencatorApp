@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925060597425",
+    "firebase_url": "https://authencatorapp.firebaseio.com",
+    "project_id": "authencatorapp",
+    "storage_bucket": "authencatorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925060597425:android:b399cc5a32a19cc5230490",
+        "android_client_info": {
+          "package_name": "com.example.authencatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925060597425-amu1kefhabvooe04hktii6ttkeas35nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnJUFMSXVq7IN6WVN_LhkjotCSM5wScAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925060597425-amu1kefhabvooe04hktii6ttkeas35nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

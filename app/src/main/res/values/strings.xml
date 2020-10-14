@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AuthencatorApp</string>
+    <string name="desc_signup">Please complete the information below\n for us to complete the user registration for you.</string>
+
+</resources>
